@@ -8,5 +8,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
