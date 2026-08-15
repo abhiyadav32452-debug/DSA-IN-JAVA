@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
