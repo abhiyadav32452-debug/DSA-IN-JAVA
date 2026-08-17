@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0383-ransom-note) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0383-ransom-note) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
