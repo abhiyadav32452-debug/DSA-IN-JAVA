@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1748-sum-of-unique-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
+| [1748-sum-of-unique-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0383-ransom-note) |
+| [1748-sum-of-unique-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Greedy
 |  |
 | ------- |
