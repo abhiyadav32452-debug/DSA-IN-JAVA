@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
