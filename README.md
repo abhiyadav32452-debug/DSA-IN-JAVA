@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0036-valid-sudoku) |
+| [0146-lru-cache](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0036-valid-sudoku) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
