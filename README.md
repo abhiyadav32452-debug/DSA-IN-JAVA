@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
 | [1748-sum-of-unique-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
