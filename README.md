@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0383-ransom-note) |
+| [0500-keyboard-row](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0383-ransom-note) |
+| [0500-keyboard-row](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0500-keyboard-row](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0500-keyboard-row) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
 | [1748-sum-of-unique-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
