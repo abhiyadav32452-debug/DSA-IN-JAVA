@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0500-keyboard-row) |
+| [0706-design-hashmap](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0500-keyboard-row) |
+| [0706-design-hashmap](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0706-design-hashmap) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
 | [1748-sum-of-unique-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
@@ -155,8 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0146-lru-cache) |
+| [0706-design-hashmap](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0146-lru-cache) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
