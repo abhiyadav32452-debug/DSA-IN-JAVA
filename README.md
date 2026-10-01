@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1499-max-value-of-equation](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1499-max-value-of-equation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0706-design-hashmap) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
 | [1436-destination-city](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1436-destination-city) |
+| [1499-max-value-of-equation](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1499-max-value-of-equation) |
 | [1748-sum-of-unique-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [1499-max-value-of-equation](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1499-max-value-of-equation) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -174,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0706-design-hashmap) |
+## Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1499-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1499-max-value-of-equation) |
 <!---LeetCode Topics End-->
