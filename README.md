@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0953-verifying-an-alien-dictionary](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1436-destination-city) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0953-verifying-an-alien-dictionary](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1436-destination-city) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0500-keyboard-row) |
 | [0706-design-hashmap](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0706-design-hashmap) |
+| [0953-verifying-an-alien-dictionary](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1002-find-common-characters) |
 | [1436-destination-city](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1436-destination-city) |
 | [1499-max-value-of-equation](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1499-max-value-of-equation) |
