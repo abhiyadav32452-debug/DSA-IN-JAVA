@@ -3,7 +3,7 @@ class Solution {
         int open = 0;
         int add = 0;
 
-        for (char ch : s.toCharArray()) {
+        for (char ch : s.toCharArray()){ 
             if (ch == '(') {
                 open++;
             } else{ 
