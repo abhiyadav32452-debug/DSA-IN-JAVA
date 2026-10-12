@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0347-top-k-frequent-elements) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1499-max-value-of-equation](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1499-max-value-of-equation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
