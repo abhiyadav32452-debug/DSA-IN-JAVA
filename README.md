@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -74,15 +75,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
