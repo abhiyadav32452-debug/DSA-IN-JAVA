@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0202-happy-number) |
+| [1922-count-good-numbers](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
