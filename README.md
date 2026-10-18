@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0078-subsets) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/abhiyadav32452-debug/DSA-IN-JAVA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
